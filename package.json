@@ -1,0 +1,22 @@
+{
+  "name": "teapackage_xiaoqi",
+  "version": "1.0.0",
+  "description": "一个测试包，tea",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaoqisong0/tea.git"
+  },
+  "keywords": [
+    "teapackage"
+  ],
+  "author": "xiaoqisong0",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaoqisong0/tea/issues"
+  },
+  "homepage": "https://github.com/xiaoqisong0/tea#readme"
+}
